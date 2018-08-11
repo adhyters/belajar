@@ -1,2 +1,0 @@
-# belajar
-belajar proyek code
